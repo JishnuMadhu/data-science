@@ -1,0 +1,15 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large CSV data files
+*.csv
+
+# System files
+project_filebrowser.db
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
